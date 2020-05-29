@@ -4,6 +4,7 @@ import (
 	"testing"
 
 	"github.com/gobuffalo/httptest"
+
 	"github.com/ory/viper"
 
 	"github.com/ory/kratos/driver"

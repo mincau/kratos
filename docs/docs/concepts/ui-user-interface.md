@@ -33,3 +33,7 @@ preventive measures built in.
 Chapter [Self-Service Flows](../self-service/flows/index) contains further
 information on APIs and flows related to the SSUI, and build self service
 applications.
+
+## Messages
+
+This section is a work-in-progress.
